@@ -1,0 +1,1 @@
+const o={band_ha:"50–100",band_share:.7140000000000001,leased_share:.447,src:"RES-054-vojvodina-smallholder-aggregation"},s=3,a=936401,e=16,n={bases:16,co2_tonnes:2400,default_book_ha:3e4,diesel_litres:9e5,holding_floor_ha:20,hours_per_day:24,leasing:o,rotations:s,servable_ha:a,supervision_ratio:e};export{n as h};
